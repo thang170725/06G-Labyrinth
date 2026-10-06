@@ -6,7 +6,7 @@
 
 # Guideline
 ```bash
-1. git clone https://github.com/thang170725/05G-Dinosour.git
-2. cd 05G-Dinosour
-3. python dino
+1. git clone https://github.com/thang170725/06G-Labyrinth.git
+2. cd 06G-Labyrinth
+3. python labyrinth.py
 ```
